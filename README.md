@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdullahAlbahri
 - 👀 I’m interested in Crypto
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m confirmed Solidity developer 
 
 <!---
 AbdullahAlbahri/AbdullahAlbahri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
